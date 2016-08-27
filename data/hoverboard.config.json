@@ -8,8 +8,8 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG DevFest Lisboa 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
+          "youtubeId": "",
+          "text": "__"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -74,7 +74,7 @@
     "url": "https://google.us13.list-manage.com/subscribe/post?u=ab348098372d2b33687f05541&amp;id=4a202ed14d",
     "name": "b_ab348098372d2b33687f05541_4a202ed14d"
   },
-  "partnershipProposition": "",
+  "partnershipProposition": "http://goo.gl/xVoISN",
   "disqusShortName": "gdglisbon",
   "languages": [
     {
@@ -110,7 +110,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "",
+          "url": "http://goo.gl/xVoISN",
           "newTab": true
         },
         {
@@ -179,12 +179,12 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/MUNKPBDq4vYnvhY59",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/event_big_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/event_big_2.jpg",
+        "/images/backgrounds/event_big_3.jpg"
       ]
     }
   },
