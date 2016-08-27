@@ -7,7 +7,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Lisboa 2016",
           "youtubeId": "DfMnJAzOFng",
           "text": "See how it was in 2015"
         },
@@ -57,10 +57,6 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
       "route": "schedule",
       "permalink": "/schedule/"
     },
@@ -73,21 +69,21 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devfestlisbon.firebaseapp.com/",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://google.us13.list-manage.com/subscribe/post?u=ab348098372d2b33687f05541&amp;id=4a202ed14d",
+    "name": "b_ab348098372d2b33687f05541_4a202ed14d"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "hoverboard-gdg-x",
+  "partnershipProposition": "",
+  "disqusShortName": "gdglisbon",
   "languages": [
     {
       "name": "English",
       "key": "en"
     },
     {
-      "name": "Українська",
-      "key": "uk"
+      "name": "Portuguese",
+      "key": "pt"
     }
   ],
   "footerBlocks": [
@@ -106,21 +102,6 @@
           "text": "google-developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -129,12 +110,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "",
           "newTab": true
         }
       ]
@@ -143,68 +124,42 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "lisbon.gdg@gmail.com",
+        "url": "mailto:lisbon.gdg@gmail.com"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "",
     "elements": [
-      {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
-        "soldOut": false
-      }
     ]
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 100,
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
+      "counter": 1,
+      "caption": "day"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "sessions"
     },
     {
-      "counter": 3,
-      "caption": "tracks"
+      "counter": 1,
+      "caption": "track"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "GDGLisbonDevFest",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGLisboa",
+      "url": "https://twitter.com/gdglisbon"
     },
     {
       "name": "gplus",
@@ -213,7 +168,7 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
+      "nickname": "GDGLisboa",
       "url": "https://www.facebook.com/GDGLviv"
     },
     {
@@ -235,15 +190,15 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://tecnico.ulisboa.pt/pt/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 38.7370211,
+      "longitude": -9.140089,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 38.7370211,
+      "longitude": -9.140089
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -251,7 +206,7 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "callToAction": {
     "videoTitle": "action-title",
     "videoId": "DfMnJAzOFng"
