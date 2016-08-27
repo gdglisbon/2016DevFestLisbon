@@ -57,8 +57,16 @@
       "permalink": "/"
     },
     {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
       "route": "schedule",
       "permalink": "/schedule/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
     },
     {
       "route": "speakers",
@@ -154,7 +162,7 @@
       "caption": "track"
     }
   ],
-  "hashtag": "GDGLisbonDevFest",
+  "hashtag": "GDGLxDF",
   "social": [
     {
       "name": "twitter",
