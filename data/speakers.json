@@ -1,3 +1,41 @@
 {
-  
+  "1": {
+          "id": 1,
+          "featured": "true",
+          "name": "Francisco Franco",
+          "title": "",
+          "company": "Freelancer",
+          "companyLogo": "",
+          "country": "",
+          "photoUrl": "/images/people/francisco_franco.jpg",
+          "shortBio": "Francisco Franco is an Android developer with six years of experience building applications and custom kernels for Nexus devices...",
+          "bio": "Francisco Franco is an Android developer with six years of experience building applications and custom kernels for Nexus devices, focusing on improving battery life and improving feature extensibility on the platform.
+          Francisco has built several apps and services, the most popular being FKUpdater which serves as an interface for managing his custom kernels and offers an easy way for users to stay up to date. Francisco also built Focus, an innovative photo/video gallery replacement that showcases material design at its best. He also has experience with startups in Silicon Valley, contributing to the project that began what is now known as Android Auto.
+          He spends his free time finding new challenges to tackle, the latest being an exploration into mutative design with Liam Spradlin.",
+          "tags": [
+              "Android",
+              "Design",
+              "Kernel"
+          ],
+          "badges": [
+
+          ],
+          "socials": [
+              {
+                  "icon": "linkedin",
+                  "name": "LinkedIn",
+                  "link": "https://www.linkedin.com/in/francisco-franco-b319b653"
+              },
+              {
+                  "icon": "twitter",
+                  "name": "Twitter",
+                  "link": "https://twitter.com/franciscof_1990/"
+              },
+              {
+                  "icon": "gplus",
+                  "name": "Google+",
+                  "link": "https://plus.google.com/+FranciscoFranco1990"
+              }
+          ]
+      },
 }
