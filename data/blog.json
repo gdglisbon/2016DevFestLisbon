@@ -1,2 +1,20 @@
 [
+  {
+    "id": "dfgdglx-2016-announced",
+    "title": "GDG DevFest 2016 Announced",
+    "posted": "2016-08-31",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/dfgdglx-announce.jpg",
+    "brief": "Google Developers Groups are proud to announce the annual GDG DevFest 2016 which is the biggest Google related event in Portugal carefully crafted by GDG community! The event will take place on **24th of September** in **Lisbon**."
+  },
+  {
+    "id": "dfgdglx-2016-c4fp",
+    "title": "Call for Papers",
+    "posted": "2016-08-31",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/dfgdglx-c4p.jpg",
+    "brief": "Google Developers Groups are proud to announce the annual GDG DevFest 2016 which is the biggest Google related event in Portugal carefully crafted by GDG community! The event will take place on **24th of September** in **Lisbon**."
+  }
 ]
