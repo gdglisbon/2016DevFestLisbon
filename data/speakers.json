@@ -44,9 +44,9 @@
             "name": "Gonçalo Silva",
             "title": "Head of Android",
             "company": "Todoist",
-            "companyLogo": "",
+            "companyLogo": "/images/logos/devfest_todoist2.png",
             "country": "Portugal",
-            "photoUrl": "/images/people/francisco_franco.jpg",
+            "photoUrl": "/images/people/devfest_gs.jpg",
             "shortBio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design...",
             "bio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design and strategy, he's built and contributed to multiple open source projects.",
             "tags": [
@@ -71,9 +71,9 @@
                 "name": "Carlos Mota",
                 "title": "Senior Software Engineer",
                 "company": "WIT-Software",
-                "companyLogo": "",
+                "companyLogo": "/images/logos/devfest_wit.png",
                 "country": "Portugal",
-                "photoUrl": "/images/people/francisco_franco.jpg",
+                "photoUrl": "/images/people/devfest_cm.jpg",
                 "shortBio": "or several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare...",
                 "bio": "Hello human,
 I'm a strong believer that... HAL didn't do anything to harm Dave, he(?) was truly preoccupied with his friend safety. Also the answer to life, the universe and everything seems to (still) be 42.
