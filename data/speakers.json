@@ -37,5 +37,69 @@
                   "link": "https://plus.google.com/+FranciscoFranco1990"
               }
           ]
-      }
-}
+      },
+    "2": {
+            "id": 2,
+            "featured": "true",
+            "name": "Gonçalo Silva",
+            "title": "Head of Android",
+            "company": "Todoist",
+            "companyLogo": "",
+            "country": "Portugal",
+            "photoUrl": "/images/people/francisco_franco.jpg",
+            "shortBio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design...",
+            "bio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design and strategy, he's built and contributed to multiple open source projects.",
+            "tags": [
+                "Android",
+                "Startup",
+                "Product"
+            ],
+            "badges": [
+
+            ],
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "name": "Twitter",
+                    "link": "https://twitter.com/goncalossilva"
+                }
+            ]
+        },
+        "3": {
+                "id": 3,
+                "featured": "false",
+                "name": "Carlos Mota",
+                "title": "Senior Software Engineer",
+                "company": "WIT-Software",
+                "companyLogo": "",
+                "country": "Portugal",
+                "photoUrl": "/images/people/francisco_franco.jpg",
+                "shortBio": "or several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare...",
+                "bio": "Hello human,
+I'm a strong believer that... HAL didn't do anything to harm Dave, he(?) was truly preoccupied with his friend safety. Also the answer to life, the universe and everything seems to (still) be 42.
+At night I'm fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare - it was fun! I'm currently working at WIT Software on the company RCSe applications - first for iOS and now on Android.
+From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them 'talks'. I've been giving a few for UC, WIT, DevFest, mdevcon and BABBQ Amsterdam",
+                "tags": [
+                    "Android"
+                ],
+                "badges": [
+
+                ],
+                "socials": [
+                    {
+                        "icon": "linkedin",
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/cafonsomota"
+                    },
+                    {
+                        "icon": "twitter",
+                        "name": "Twitter",
+                        "link": "https://twitter.com/cafonsomota/"
+                    },
+                    {
+                        "icon": "gplus",
+                        "name": "Google+",
+                        "link": "https://plus.google.com/u/0/113424350630896111871"
+                    }
+                ]
+            }
