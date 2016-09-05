@@ -10,7 +10,7 @@ The event took place on 23-24th of October at the [Pivdennyi-EXPO](http://www.pi
 
 **These two days were full of discoveries and records:**
 
-* The biggest amount of visitors of all annual Ukrainian devfests - 500+ visitors.
+* The biggest amount of visitors of all annual Portuguese devfests - 500+ visitors.
 * 3 parallel tracks of Android, Web and Cloud technologies and also community hub.
 * 40 sessions. No marketing - just technical hardcore!
 * The widest geography of our [speakers](https://devfest.gdg.org.ua/#!/speakers) (most of them are [GDE](https://developers.google.com/experts/)) - Switzerland, Czech Republic, UK, France, Turkey, Poland, Brasil, Ukraine.
