@@ -5,10 +5,16 @@
         "title": "Sala de Conferencia"
     }],
     "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "09:15",
+        "sessions": [
+            [104]
+        ]
+    }, {
         "startTime": "09:15",
         "endTime": "09:30",
         "sessions": [
-            [104]
+            [108]
         ]
     }, {
         "startTime": "09:30",
@@ -26,7 +32,7 @@
         "startTime": "11:00",
         "endTime": "11:30",
         "sessions": [
-            [111]
+            [107]
         ]
     }, {
         "startTime": "11:30",
@@ -62,7 +68,7 @@
         "startTime": "15:30",
         "endTime": "16:15",
         "sessions": [
-            [111]
+            [106]
         ]
     }, {
         "startTime": "16:15",

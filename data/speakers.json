@@ -87,5 +87,37 @@
 			"name": "Google+",
 			"link": "https://plus.google.com/u/0/113424350630896111871"
 		}]
+	},
+	"4": {
+		"id": 4,
+		"featured": "false",
+		"name": "Bruno Oliveira",
+		"title": "Mobile Developer",
+		"company": "Faber Ventures",
+		"companyLogo": "/images/logos/devfest_fv.png",
+		"country": "Portugal",
+		"photoUrl": "/images/people/devfest_bo.jpg",
+		"shortBio": "",
+		"bio": "",
+		"tags": [
+			"Android",
+			"Gradle"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/bmoliveira"
+		}, {
+			"icon": "twitter",
+			"name": "Twitter",
+			"link": "https://twitter.com/_bmoliveira"
+		}, {
+			"icon": "github",
+			"name": "Github",
+			"link": "https://github.com/bmoliveira/"
+		}]
 	}
 }

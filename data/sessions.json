@@ -1,4 +1,17 @@
-{    "111": {
+{
+"112": {
+    "id": 112,
+    "title": "Create your Gradle plugin using Kotlin",
+    "description": "Create a Gradle plugin to Android, using Localizable open-source project as an example how to read resource files at build time.",
+    "speakers": [
+        4
+    ],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android", "Gradle"
+    ]
+},"111": {
         "id": 111,
         "title": "TBD",
         "description": "TBD",
@@ -18,7 +31,7 @@
     },
     "108": {
         "id": 108,
-        "title": "GDG DevFest Portugal 2016 Opening",
+        "title": "GDG DevFest Lisbon 2016 Opening",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
         "language": "English",
         "image": "/images/backgrounds/opening.jpg"
