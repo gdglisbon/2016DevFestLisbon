@@ -42,7 +42,7 @@
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_gs.jpg",
 		"shortBio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design...",
-		"bio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design and strategy, he's built and contributed to multiple open source projects.",
+		"bio": "Gonçalo does Android and Product at Doist, makers of Todoist. Obsessed with product design and strategy, he\u2019s built and contributed to multiple open source projects.",
 		"tags": [
 			"Android",
 			"Startup",
@@ -66,8 +66,8 @@
 		"companyLogo": "/images/logos/devfest_wit.png",
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_cm.jpg",
-		"shortBio": "or several years now, I've been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I've found the time to create a game with some friends - Word Dare...",
-		"bio": "Hello human, I 'm a strong believer that... HAL didn't do anything to harm Dave, he( ? ) was truly preoccupied with his friend safety.Also the answer to life, the universe and everything seems to(still) be 42. At night I 'm fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I've been developing mobile applications.First on the energy consumption field, then Telco and, in the middle, of it I 've found the time to create a game with some friends - Word Dare - it was fun! I'm currently working at WIT Software on the company RCSe applications - first for iOS and now on Android. From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them 'talks'.I 've been giving a few for UC, WIT, DevFest, mdevcon and BABBQ Amsterdam",
+		"shortBio": "or several years now, I\u2019ve been developing mobile applications. First on the energy consumption field, then Telco and, in the middle, of it I\u2019ve found the time to create a game with some friends - Word Dare...",
+		"bio": "Hello human, I\u2019m a strong believer that... HAL didn\u2019t do anything to harm Dave, he( ? ) was truly preoccupied with his friend safety.Also the answer to life, the universe and everything seems to(still) be 42. At night I\u2019m fighting crime... oh wait; wrong bio here. Here it goes the uncensensored version: for several years now, I\u2019ve been developing mobile applications.First on the energy consumption field, then Telco and, in the middle, of it I\u2019ve found the time to create a game with some friends - Word Dare - it was fun! I\u2019m currently working at WIT Software on the company RCSe applications - first for iOS and now on Android. From time to time, I like to make long monologues and wait for the entire audience to fall asleep - lets call them \u2019talks\u2019.I\u2019ve been giving a few for UC, WIT, DevFest, mdevcon and BABBQ Amsterdam",
 		"tags": [
 			"Android"
 		],

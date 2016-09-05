@@ -1,3 +1,41 @@
 {
-  
+    "103": {
+        "id": 103,
+        "title": "What\u2019s our main complaint when we use an application?- Speed!",
+        "description": "We all expect speed. We want to access everything from the point of our fingers and we want that as fast as possible. When an application is taking to long to open or process some data I bet you also feel the urge to search for another solution - or just to throw your smartphone against the nearest wall in despair. And while you think about this, you’re looking at that never ending spinner… that... it just doesn\u2019t seem to go away.\nGoogle Play and the App Store are full of similar solutions... Why should I bother to keep using this one?\nWe can make all sort of optimisations on our code - and yet, sometimes, we can\u2019t really make that process as fast as we wanted. There are always some constraints that we can\u2019t really avoid - device limitations, network, server, etc. but we can create the illusion of speed - a visual aid that keeps the user busy while, on the background, we are processing his action.\nYes. Time is relative and we want the users to feel that every action is as responsible as possible.",
+        "speakers": [
+            3
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "102": {
+        "id": 102,
+        "title": "Building Todoist: past, present and future",
+        "description": "Todoist is currently used by millions of people, but it didn\u2019t start that way. Its history is filled with random events and calculated actions, all of which we are still learning from today. This is the first part of this talk. The second part is about a secret ingredient: the amazing remote team that enabled all of it, how it came to be and how it works on a daily basis.",
+        "speakers": [
+            2
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+          "Android", "Startup", "UX", "Product"
+        ]
+    },
+    "101": {
+        "id": 101,
+        "title": "From the bottom to the top: Android Kernel, Userspace and Mutative Design",
+        "description": "Practical examples of custom patches for the Android Kernel to improve battery, how those tweaks & interfaces connect to the userspace through a published Play Store app and how the principles of mutative design will change how we interact with our devices.",
+        "speakers": [
+            1
+        ],
+        "language": "English",
+        "complexity": "Advanced",
+        "tags": [
+            "Android", "Design", "Kernel", "UX"
+        ]
+    }
 }
