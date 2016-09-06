@@ -97,11 +97,10 @@
 		"companyLogo": "/images/logos/devfest_fv.png",
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_bo.jpg",
-		"shortBio": "",
-		"bio": "",
+		"shortBio": ".",
+		"bio": ".",
 		"tags": [
-			"Android",
-			"Gradle"
+			"Android"
 		],
 		"badges": [
 

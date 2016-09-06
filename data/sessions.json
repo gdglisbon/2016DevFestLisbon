@@ -1,68 +1,69 @@
 {
-"112": {
-    "id": 112,
-    "title": "Create your Gradle plugin using Kotlin",
-    "description": "Create a Gradle plugin to Android, using Localizable open-source project as an example how to read resource files at build time.",
-    "speakers": [
-        4
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android", "Gradle"
-    ]
-},"111": {
-        "id": 111,
+    "112": {
+        "id": 112,
         "title": "TBD",
         "description": "TBD",
         "language": "English"
     },
-    "110": {
-        "id": 110,
+    "111": {
+        "id": 111,
         "title": "Conference closing",
-        "description": "Make sure you won\u2019t miss closing ceremony.",
+        "description": "Make sure you won\u2016t miss closing ceremony.",
         "image": "/images/backgrounds/closing.jpg"
     },
-    "109": {
-        "id": 109,
+    "110": {
+        "id": 110,
         "title": "Afterparty & Networking",
         "description": "Afterparty is a great time to have some fun and meet new people",
         "image": "/images/backgrounds/party.jpg"
     },
-    "108": {
-        "id": 108,
+    "109": {
+        "id": 109,
         "title": "GDG DevFest Lisbon 2016 Opening",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
         "language": "English",
         "image": "/images/backgrounds/opening.jpg"
     },
-    "107": {
-        "id": 107,
+    "108": {
+        "id": 108,
         "title": "Morning coffee",
         "description": "Coffeeeeeee!",
         "image": "/images/backgrounds/morning.jpg"
     },
-    "106": {
-        "id": 106,
+    "107": {
+        "id": 107,
         "title": "Coffee break",
         "description": "Coffeeeeeee!",
         "image": "/images/backgrounds/coffee-break.jpg"
     },
-    "105": {
-        "id": 105,
+    "106": {
+        "id": 106,
         "title": "Lunch",
         "description": "Foooooooood!",
         "image": "/images/backgrounds/lunch.jpg"
     },
-    "104": {
-        "id": 104,
+    "105": {
+        "id": 105,
         "title": "Registration & morning Coffee",
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "image": "/images/backgrounds/registration.jpg"
     },
+    "104": {
+        "id": 104,
+        "title": "Create your Gradle plugin using Kotlin",
+        "description": "Create a Gradle plugin to Android, using Localizable open-source project as an example how to read resource files at build time.",
+        "speakers": [
+            4
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+          "Android", "Gradle"
+        ]
+    },
     "103": {
         "id": 103,
-        "title": "What\u2019s our main complaint when we use an application?- Speed!",
+        "title": "What\u2016s our main complaint when we use an application?- Speed!",
         "description": "We all expect speed. We want to access everything from the point of our fingers and we want that as fast as possible. When an application is taking to long to open or process some data I bet you also feel the urge to search for another solution - or just to throw your smartphone against the nearest wall in despair. And while you think about this, you’re looking at that never ending spinner… that... it just doesn\u2019t seem to go away.\nGoogle Play and the App Store are full of similar solutions... Why should I bother to keep using this one?\nWe can make all sort of optimisations on our code - and yet, sometimes, we can\u2019t really make that process as fast as we wanted. There are always some constraints that we can\u2019t really avoid - device limitations, network, server, etc. but we can create the illusion of speed - a visual aid that keeps the user busy while, on the background, we are processing his action.\nYes. Time is relative and we want the users to feel that every action is as responsible as possible.",
         "speakers": [
             3
