@@ -118,5 +118,52 @@
 			"name": "Github",
 			"link": "https://github.com/bmoliveira/"
 		}]
+	},
+	"5": {
+		"id": 5,
+		"featured": "false",
+		"name": "Fabio Carballo",
+		"title": "Android Developer",
+		"company": "Hole19",
+		"companyLogo": "/images/logos/",
+		"country": "Portugal",
+		"photoUrl": "/images/people/devfest_fc.jpg",
+		"shortBio": ".",
+		"bio": ".",
+		"tags": [
+			"Android",
+			"Gradle"
+		],
+		"badges": [
+
+		],
+		"socials": []
+	},
+	"6": {
+		"id": 6,
+		"featured": "true",
+		"name": "Ivan Kutil",
+		"title": "co-founder & Google Architect",
+		"company": "AppSatori",
+		"companyLogo": "/images/logos/",
+		"country": "Czech Republic",
+		"photoUrl": "/images/people/devfest_ik.jpg",
+		"shortBio": "Ivan is an enthusiastic programmer and integration architect who\u2019s focused on deployment, development, training and consulting across the Google Apps platform",
+		"bio": "Ivan is an enthusiastic programmer and integration architect who’s focused on deployment, development, training and consulting across the Google Apps platform. In 2009, he started a company called AppSatori, which is now one of the most important partners for Google Apps in the Czech Republic. This company was later acquired by Etnetera Group in 2014.\nIvan’s role is helping companies and start-ups design, develop and improve internal tools to automate processes with Google Apps Script. He\u2019s presented at events like WebExpo Prague, Devfest or Google Developer Day.\nHe\u2019s also a certified Google Apps Sales Specialist, Google Apps Deployment Specialist, and Google Apps Certified Administrator.\nIvan studied at Czech Technical University and University of Economics in Prague. He loves reading, maths and science in general.",
+		"tags": [
+			"Android", "Google Apps", "Maps", "Progressive Web Apps", "Firebase"
+		],
+		"badges": [
+
+		],
+		"socials": [ {
+			"icon": "twitter",
+			"name": "Twitter",
+			"link": "https://twitter.com/ivankutil"
+		}, {
+			"icon": "gplus",
+			"name": "Google+",
+			"link": "https://google.com/+IvanKutil"
+		}]
 	}
 }

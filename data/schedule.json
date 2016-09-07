@@ -56,13 +56,19 @@
         "startTime": "14:45",
         "endTime": "15:30",
         "sessions": [
+            [103]
+        ]
+    }, {
+        "startTime": "15:30",
+        "endTime": "16:15",
+        "sessions": [
             [107]
         ]
     }, {
         "startTime": "16:15",
         "endTime": "17:00",
         "sessions": [
-            [103]
+            [114]
         ]
     }, {
         "startTime": "17:00",
