@@ -80,5 +80,7 @@
   "view-presentation": "View presentation",
   "view-video": "View video",
   "day": "Day",
-  "codelab":"Codelab"
+  "codelab":"Codelab",
+  "ticket":"Ticket",
+  "get-tickets":"Tickets"
 }

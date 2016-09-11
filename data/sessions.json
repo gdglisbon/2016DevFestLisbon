@@ -117,13 +117,31 @@
           "id": 99,
           "title": "TBD",
           "description": "TBD",
-          "speakers": [
-              5
-          ],
-          "language": "English",
-          "complexity": "Intermediate",
-          "tags": [
-            "Android"
-          ]
-      }
+          "language": "English"
+      },
+       "98": {
+            "id": 98,
+            "title": "Firechat",
+            "description": "We will have a moment for discussions between the community and speakers",
+            "language": "English"
+        },
+        "97": {
+             "id": 97,
+             "title": "CodeLab",
+             "description": "Workshop in Firebase - More information soon, stay tuned",
+             "language": "English"
+         },
+        "96": {
+             "id": 96,
+             "title": "Development Wars: Sabotage Your Project",
+             "description": "Challenge your project to improve its efficiency. From problem solving to team building, learn what it takes to kill your project so you can make it prosperous.",
+             "speakers": [
+               7
+             ],
+             "language": "English",
+             "complexity": "Beginner",
+             "tags": [
+               "General","Worst practices","Business"
+             ]
+         }
 }

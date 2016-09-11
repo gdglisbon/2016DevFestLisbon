@@ -128,8 +128,8 @@
 		"companyLogo": "/images/logos/",
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_fc.png",
-		"shortBio": ".",
-		"bio": ".",
+		"shortBio": "Fábio is an Android Developer that has been working on Hole19 mobile app and wearable devices and a huge fan of Kotlin in Android Development.",
+		"bio": "Fábio is an Android Developer that has been working on Hole19 mobile app and wearable devices and a huge fan of Kotlin in Android Development.",
 		"tags": [
 			"Android",
 			"Gradle"
@@ -164,6 +164,29 @@
 			"icon": "gplus",
 			"name": "Google+",
 			"link": "https://google.com/+IvanKutil"
+		}]
+	},
+	"7": {
+		"id": 7,
+		"featured": "false",
+		"name": "Sérgio Almeida",
+		"title": "Senior Front-end Developer",
+		"company": "Growin",
+		"companyLogo": "/images/logos/devfest_growin.png",
+		"country": "Portugal",
+		"photoUrl": "/images/people/devfest_sa.jpg",
+		"shortBio": "Sérgio has been a Front-end Developer in some of the biggest platforms in the country, always focused on the best solutions for the user.",
+		"bio": "Sérgio is a senior front end developer specialized in HTML5, CSS3 and jQuery, who likes to be a part of the process and think about efficient solutions. He\u2019s had important roles in projects for clients such as Grupo Salvador Caetano, TAP, ViaVerde and Médis.\nSérgio has been working with multidisciplinary teams for years, so he understands and respects all parts of each project, making him an unique asset when there\u2019s a gap between different teams.\nThroughout his career, Sérgio was always on the front-line, but he also had roles as project manager, client manager, team leader, project analyst, even commercial manager.\nHis analytical mind, combined with his unusual knowledge, provide him with fresh views on business strategy and practices.",
+		"tags": [
+			"General","jQuery", "CSS3", "HTML5", "business analysis", "devil\u2019s advocate", "worst practices"
+		],
+		"badges": [
+
+		],
+		"socials": [ {
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://pt.linkedin.com/in/sergioralmeida"
 		}]
 	}
 }

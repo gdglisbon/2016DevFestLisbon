@@ -49,6 +49,20 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
+    },
+    "ticket": {
+      "headerSettings": {
+        "backgroundColor": "#AFB496",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "codelab": {
+      "headerSettings": {
+        "backgroundColor": "#A0BDCF",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
     }
   },
   "navigation": [

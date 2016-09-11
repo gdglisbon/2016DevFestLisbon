@@ -114,6 +114,7 @@
       sessions="{{sessions}}"
       schedule="{{schedule}}"
       posts="{{posts}}"
+
     ></app-data>
 
     <app-drawer-layout drawer-width="599px" force-narrow>
@@ -179,6 +180,14 @@
 
           <cod-page name="cod"
                     app="{{app}}"></cod-page>
+
+          <ticket-page name="ticket"
+                      route="{{subRoute}}"
+                      ticket="{{ticket}}"
+                      app="{{app}}"></ticket-page>
+
+          <codelab-page name="codelab"
+                      route="{{subRoute}}"></codelab-page>
 
         </neon-animated-pages>
       </div>
