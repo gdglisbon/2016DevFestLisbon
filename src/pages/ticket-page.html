@@ -12,7 +12,7 @@
 
 <link rel="import" href="../elements/footer-block.html">
 <link rel="import" href="../behaviors/page-behavior.html">
-
+<link rel="import" href="../behaviors/ticket-behavior.html">
 
 <dom-module id="ticket-page">
 
@@ -45,7 +45,21 @@
 
     <div class="container">
 
-      <h1>Teste</h1>
+    <h1>checkout</h1>
+
+    <stripe-behavior></stripe-behavior>
+    <form action="" method="POST" id="payment-form">
+          <!-- Add a section to display errors if you want -->
+          <span class='payment-errors'></span>
+          <input data-stripe="number"/>
+          <input data-stripe="cvc"/>
+          <input data-stripe="exp-month"/>
+          <input data-stripe="exp-year"/>
+          <button type="submit">Submit Payment</button>
+      </form>
+
+
+    <h2>_</h2>
 
     </div>
 
@@ -63,13 +77,20 @@
 
         behaviors: [
           Polymer.NeonSharedElementAnimatableBehavior,
-          HOVERBOARD.PageBehavior
+          HOVERBOARD.PageBehavior,
+          HOVERBOARD.StripeBehavior
         ],
 
         properties: {
           source: {
             type: String
           },
+
+          publisheableKey: {
+            type: String,
+            value: 'pk_test_gjA7ok9zzby3bC1tBuDhCJED',
+          },
+
 
           animationConfig: {
             type: Object,
@@ -114,6 +135,7 @@
         }
 
       });
+
 
     })();
   </script>
