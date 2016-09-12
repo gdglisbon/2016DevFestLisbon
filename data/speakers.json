@@ -6,7 +6,7 @@
 		"title": "",
 		"company": "Freelancer",
 		"companyLogo": "",
-		"country": "",
+		"country": "World",
 		"photoUrl": "/images/people/francisco_franco.jpg",
 		"shortBio": "Francisco Franco is an Android developer with six years of experience building applications and custom kernels for Nexus devices...",
 		"bio": "Francisco Franco is an Android developer with six years of experience building applications and custom kernels for Nexus devices, focusing on improving battery life and improving feature extensibility on the platform. Francisco has built several apps and services, the most popular being FKUpdater which serves as an interface for managing his custom kernels and offers an easy way for users to stay up to date.Francisco also built Focus, an innovative photo / video gallery replacement that showcases material design at its best.He also has experience with startups in Silicon Valley, contributing to the project that began what is now known as Android Auto. He spends his free time finding new challenges to tackle, the latest being an exploration into mutative design with Liam Spradlin.",
@@ -128,7 +128,7 @@
 		"companyLogo": "/images/logos/",
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_fc.png",
-		"shortBio": "Fábio is an Android Developer that has been working on Hole19 mobile app and wearable devices and a huge fan of Kotlin in Android Development.",
+		"shortBio": "Fábio is an Android Developer that has been working at Hole19.",
 		"bio": "Fábio is an Android Developer that has been working on Hole19 mobile app and wearable devices and a huge fan of Kotlin in Android Development.",
 		"tags": [
 			"Android",
@@ -154,7 +154,11 @@
 			"Android", "Google Apps", "Maps", "Progressive Web Apps", "Firebase"
 		],
 		"badges": [
-
+      {
+          "name": "GDE",
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/ivan-kutil.html"
+      }
 		],
 		"socials": [ {
 			"icon": "twitter",
@@ -187,6 +191,68 @@
 			"icon": "linkedin",
 			"name": "LinkedIn",
 			"link": "https://pt.linkedin.com/in/sergioralmeida"
+		}]
+	},
+	"8": {
+		"id": 8,
+		"featured": "false",
+		"name": "Pedro Vicente",
+		"title": "Software Craftsman",
+		"company": "Mindera",
+		"companyLogo": "/images/logos/devfest_mindera.png",
+		"country": "Portugal",
+		"photoUrl": "/images/people/pedro_vicente.jpg",
+		"shortBio": "Pedro Vicente is an improver. What the hell is that?",
+		"bio": "Pedro Vicente is an improver. What the hell is that? You probably were asking yourself. Well, he thrives by (trying until he successfully) improves the processes around him either it being human or software related. He has been developing mobile apps since 2009 and focused on Android after 2010.\nCurrently he is a Software Craftsman at Mindera, and in past his path crossed with WIT-Software and Ubiwhere.\nHe co-founded GDG Porto and did a lot of more crazy stuff, but you\u2019ll need to ask him about it. Oh, and remember, there is no spoon.",
+		"tags": [
+			"Android","Craftsmanship"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://pt.linkedin.com/in/neteinstein"
+		}, {
+			"icon": "twitter",
+			"name": "Twitter",
+			"link": "https://twitter.com/neteinstein"
+		}, {
+			"icon": "gplus",
+			"name": "Google+",
+			"link": "https://plus.google.com/u/0/+PedroVicenteNeTeInStEiN"
+		}]
+	},
+	"9": {
+		"id": 9,
+		"featured": "false",
+		"name": "João Ventura",
+		"title": "Owner",
+		"company": "Flatangle",
+		"companyLogo": "/images/logos/devfest_flatangle.png",
+		"country": "Portugal",
+		"photoUrl": "/images/people/joao_ventura.jpeg",
+		"shortBio": "João Ventura is a full-stack Python developer, currently bootstrapping Flatangle",
+		"bio": "João Ventura is a full-stack Python developer with previous experience on Statistics, Natural Language Processing and Text-Mining. He has been working as web developer for the last couple of years, and he is currently bootstrapping Flatangle, a services and software startup.",
+		"tags": [
+			"Android", "Startups"
+		],
+		"badges": [
+
+		],
+		"socials": [{
+			"icon": "website",
+			"name": "Flatangle",
+			"link": "http://flatangle.com"
+		}, {
+			"icon": "website",
+			"name": "Personal",
+			"link": "http://joaoventura.net"
+		}, {
+			"icon": "github",
+			"name": "Github",
+			"link": "https://github.com/joaoventura"
 		}]
 	}
 }

@@ -7,8 +7,8 @@
     },
     "111": {
         "id": 111,
-        "title": "Conference closing",
-        "description": "Make sure you won\u2019t miss closing ceremony.",
+        "title": "Close of Conference",
+        "description": "Make sure you won\u2019t miss closing ceremony! Who knows what might happen",
         "image": "/images/backgrounds/closing.jpg"
     },
     "110": {
@@ -19,7 +19,7 @@
     },
     "109": {
         "id": 109,
-        "title": "GDG DevFest Lisbon 2016 Opening",
+        "title": "GDG DevFest Lisbon 2016 Opening Remarks",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
         "language": "English",
         "image": "/images/backgrounds/opening.jpg"
@@ -27,13 +27,13 @@
     "108": {
         "id": 108,
         "title": "Morning coffee",
-        "description": "Coffeeeeeee!",
+        "description": "Refreshment and Networking Break",
         "image": "/images/backgrounds/morning.jpg"
     },
     "107": {
         "id": 107,
         "title": "Coffee break",
-        "description": "Coffeeeeeee!",
+        "description": "Refreshment and Networking Break",
         "image": "/images/backgrounds/coffee-break.jpg"
     },
     "106": {
@@ -44,7 +44,7 @@
     },
     "105": {
         "id": 105,
-        "title": "Registration & morning Coffee",
+        "title": " Registration & Coffee",
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "image": "/images/backgrounds/registration.jpg"
     },
@@ -142,6 +142,45 @@
              "complexity": "Beginner",
              "tags": [
                "General","Worst practices","Business"
+             ]
+         },
+        "95": {
+             "id": 95,
+             "title": "Using Spek to test with Kotlin",
+             "description": "Here, I will show how to use the Kotlin based Spek testing framework on Android and how you can use it to test your app.",
+             "speakers": [
+               5
+             ],
+             "language": "English",
+             "complexity": "Beginner",
+             "tags": [
+               "Android", "Testing", "Kotlin"
+             ]
+         },
+         "94": {
+             "id": 94,
+             "title": "Android’s Warp pipe. Really. Like Super Mario",
+             "description": "Do you develop? Do you develop Android? So how do you do it?\nNo, I don\u2019t mean if you write on vim or Android Studio or whatever.\nI mean: Ad-hoc? Continuous Integration? Continuous Delivery? Continous Deployment?\nWhy do you do what you do?\nHave you put some thought on it?",
+             "speakers": [
+               8
+             ],
+             "language": "English",
+             "complexity": "Intermediate",
+             "tags": [
+               "Android", "Testing", "Kotlin"
+             ]
+         },
+         "93": {
+             "id": 93,
+             "title": "Reuse Python code in native Android applications",
+             "description": "PyBridge is a JNI implementation that allows us to reuse existing Python code in a native Android Java application. Instead of using web applications disguised as native applications, we can reuse Python backend code and implement truly native Android applications. My talk will be based on PyBridge (https://github.com/joaoventura/pybridge), and will talk mostly on how the separation of concerns allows us to share code between web apps and native Android apps. PyBridge is being used in production in: https://play.google.com/store/apps/details?id=com.flatangle.charts",
+             "speakers": [
+               9
+             ],
+             "language": "English",
+             "complexity": "Intermediate",
+             "tags": [
+               "Android", "PyBridge"
              ]
          }
 }

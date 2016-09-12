@@ -68,5 +68,39 @@
         "title": "HackerSchool"
       }
     ]
+  },
+  {
+    "title": "GDG Friends",
+    "members": [
+      {
+        "name": "Henrique Silva",
+        "photoUrl": "/images/people/henrique_silva.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://www.facebook.com/thestudiogarage/",
+            "name": "Website"
+          }
+        ],
+        "title": "Oficial Photographer"
+      },
+      {
+        "name": "Kaltrina Neves",
+        "photoUrl": "/images/people/kaltrina_neves.jpeg",
+        "socials": [
+          {
+            "icon":"twitter",
+            "link":"https://twitter.com/kaltrinaneves",
+            "name":"Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://uk.linkedin.com/in/kaltrinaneveskastrati",
+            "name": "Linkedin"
+          }
+        ],
+        "title": "Event Planner"
+      }
+    ]
   }
 ]

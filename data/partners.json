@@ -17,6 +17,31 @@
         "name": "HackerSchool",
         "url": "http://hackerschool.io/",
         "logoUrl": "../images/logos/hackerschool.png"
+      },
+      {
+        "name": "Google Developers Group Coimbra",
+        "url": "https://gdgcoimbra.github.io/",
+        "logoUrl": "../images/logos/gdg-coimbra.png"
+      },
+      {
+        "name": "Google Developers Group Porto",
+        "url": "http://gdgporto.xyz/",
+        "logoUrl": "../images/logos/gdg-porto.png"
+      }
+    ]
+  },
+  {
+    "title":"media-partner",
+    "logos": [
+      {
+        "name":"Aberto até de Madrugada",
+        "url":"http://abertoatedemadrugada.com/",
+        "logoUrl":"../images/logos/devfest_aadm.png"
+      },
+      {
+        "name":"PplWare",
+        "url":"https://pplware.sapo.pt/",
+        "logoUrl":"../images/logos/devfest_pplware.png"
       }
     ]
   }

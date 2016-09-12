@@ -26,7 +26,7 @@
   "media-kit": "Media Kit",
   "contact-us": "Contact us",
   "tickets-title": "Tickets",
-  "tickets-details": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "tickets-details": "Tickets give you access to all conference session, coffee breaks, lunch and networking party. Accommodation is NOT included in the ticket price.",
   "run-out-tickets": "We have run out all our tickets",
   "close": "Close",
   "sold-out-tickets": "Sold Out",
@@ -42,7 +42,7 @@
   "lazy-ticket-starts": "July 1",
   "lazy-ticket-ends": "Sep 8",
   "team-page-title": "Team",
-  "team-page-text": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lisbon](http://gdglisbon.xyz) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Portuguese audience to boost development of IT.",
+  "team-page-text": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lisbon](http://gdglisbon.xyz) - is and open and volunteer community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Portuguese audience to boost development of IT.",
   "description": "The Google tech conference in Portugal carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "attendees": "Attendees",
   "days": "Days",
@@ -69,7 +69,7 @@
   "about-organizers": "<a href='http://gdglisbon.xyz' target='_blank'>GDG Lisbon</a> with support of HackerSchool and GDGs around Portugal",
   "open-team-page": "Open team page",
   "what-is-gdg": "What is GDG?",
-  "about-gdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "about-gdg": "Google Developers Group (GDG) - is an open and volunteer community who create exciting projects and share experience about Google technologies with a passion",
   "read-more": "Read more",
   "copy-link": "Copy link",
   "filtered-by": "filtered by",
@@ -82,5 +82,6 @@
   "day": "Day",
   "codelab":"Codelab",
   "ticket":"Ticket",
-  "get-tickets":"Tickets"
+  "get-tickets":"Tickets",
+  "media-partner":"Media Partners"
 }
