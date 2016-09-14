@@ -55,7 +55,7 @@
   "partners": "Partners",
   "become-a-partner": "Become a partner",
   "template-creator": "Organizer",
-  "general-partner": "General partner",
+  "general-partner": "General Partners",
   "featured-videos-title": "",
   "featured-videos-view-all": "",
   "featured-people-title": "Rockstar Speakers",
@@ -83,5 +83,6 @@
   "codelab":"Codelab",
   "ticket":"Ticket",
   "get-tickets":"Tickets",
-  "media-partner":"Media Partners"
+  "media-partner":"Media Partners",
+  "drink-partner":"Drinks Sponsor"
 }

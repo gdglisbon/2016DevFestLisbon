@@ -1,0 +1,18 @@
+**GDG DevFest comes to Lisbon!**
+
+Adding to the GDG DevFest Season for 2016… GDG Community in Lisbon, Portugal will be hosting their own DevFest, taking place on the 24th September at Instituto Superior Técnico.
+
+A great opportunity for developers to come together listen to experts and exchange ideas.
+
+ This one-day event will feature talks from developers including [**Ivan Kutilb**](https://www.gdglisbon.xyz/speakers/6/)(Czech Republic) a Google Developer Expert and co-founder of AppSatori. [**Gonçalo Silva**](https://www.gdglisbon.xyz/speakers/2/) from Todoist, [**Carlos Mota**](https://www.gdglisbon.xyz/speakers/3/) and [**Pedro Vicente**](https://www.gdglisbon.xyz/speakers/8/) from GDG Communities in Coimbra and Porto, plus many more!
+
+Full schedule [here](https://www.gdglisbon.xyz/schedule)
+
+Also included, a Firelab session will give all those attending chance to kick off some discussions between the speakers and the GDG community. Ending the day with a Codelab, hosting a workshop on Firebase.
+
+This event would not be possible without the support from your partners – [HackerSchool](http://hackerschool.io/), [GDG Community Coimbra](http://gdgcoimbra.github.io/) and [GDG Community Porto](https://plus.google.com/108439465690358116375). The comunities [Mobile.Lx](http://www.meetup.com/pt-BR/mobile-lx/) and [AndroidLX](https://www.facebook.com/androidlx/). Including our media partners [PPLware](https://pplware.sapo.pt/), [P@P](http://www.portugal-a-programar.pt/) and [abertoatedemadrugada.com](http://abertoatedemadrugada.com/). Without forgetting our special drinks sponsor [Luso](http://www.sociedadeagualuso.pt/)
+<br/>
+
+<h3>[Tickets are available now](https://www.eventbrite.pt/e/gdg-devfest-lisbon-16-registration-27716796685)</h3>
+
+Follow us on [Facebook](https://www.facebook.com/GDGLisbon/), [Twitter](https://twitter.com/GDGLisbon), [LinkedIn](https://www.linkedin.com/groups/8487369) and [Google+](https://plus.google.com/+GDG-Lisbon) for all the latest updates.

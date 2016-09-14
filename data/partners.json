@@ -6,7 +6,7 @@
         "name": "GDG Lisboa",
         "url": "https://plus.google.com/105135300456431065608/",
         "logoUrl": "../images/logos/gdg-lisboa.png",
-        "width": 170
+        "width": 300
       }
     ]
   },
@@ -27,6 +27,16 @@
         "name": "Google Developers Group Porto",
         "url": "http://gdgporto.xyz/",
         "logoUrl": "../images/logos/gdg-porto.png"
+      },
+      {
+        "name": "AndroidLx",
+        "url": "https://www.facebook.com/androidlx/",
+        "logoUrl": "../images/logos/devfest_androidlx.png"
+      },
+      {
+        "name": "MobileLx",
+        "url": "http://www.meetup.com/pt-BR/mobile-lx/",
+        "logoUrl": "../images/logos/devfest_mobilelx.jpg"
       }
     ]
   },
@@ -41,7 +51,24 @@
       {
         "name":"PplWare",
         "url":"https://pplware.sapo.pt/",
-        "logoUrl":"../images/logos/devfest_pplware.png"
+        "logoUrl":"../images/logos/devfest_pplware.png",
+        "width": 300
+      },
+      {
+        "name":"Portugal a Programar",
+        "url":"http://www.portugal-a-programar.pt/",
+        "logoUrl":"../images/logos/devfest_pap.png"
+      }
+    ]
+  },
+  {
+    "title":"drink-partner",
+    "logos": [
+      {
+        "name": "Luso",
+        "url": "http://www.sociedadeagualuso.pt/",
+        "logoUrl": "../images/logos/devfest_luso.jpg",
+        "width": 300
       }
     ]
   }

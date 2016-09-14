@@ -1,12 +1,12 @@
 [
   {
-    "id": "dfgdglx-2016-tickets-soon",
-    "title": "GDG DevFest Tickets!",
-    "posted": "2016-09-05",
+    "id": "dfgdglx-2016-c4fp",
+    "title": "Call for Papers",
+    "posted": "2016-08-31",
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
-    "image": "/images/posts/tickets.jpg",
-    "brief": "Tickets for DevFest available soon."
+    "image": "/images/posts/dfgdglx-c4p.jpg",
+    "brief": "The Google DevFest is looking for speakers!"
   },
   {
     "id": "dfgdglx-2016-announced",
@@ -18,12 +18,21 @@
     "brief": "Google Developers Groups are proud to announce the annual GDG DevFest 2016 which is the biggest Google related event in Portugal carefully crafted by GDG community! The event will take place on **24th of September** in **Lisbon**."
   },
   {
-    "id": "dfgdglx-2016-c4fp",
-    "title": "Call for Papers",
-    "posted": "2016-08-31",
+    "id": "dfgdglx-2016-tickets-soon",
+    "title": "GDG DevFest Tickets!",
+    "posted": "2016-09-05",
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
-    "image": "/images/posts/dfgdglx-c4p.jpg",
-    "brief": "The Google DevFest is looking for speakers!"
+    "image": "/images/posts/tickets.jpg",
+    "brief": "Tickets for DevFest available soon."
+  },
+  {
+    "id": "dfgdglx-2016-intro",
+    "title": "GDG DevFest comes to Lisbon!",
+    "posted": "2016-10-14",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/dfgdglx-intro.jpg",
+    "brief": "A great opportunity for developers to come together listen to experts and exchange ideas."
   }
 ]
