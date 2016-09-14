@@ -87,7 +87,7 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://devfestlisbon.firebaseapp.com/",
+  "url": "http://www.gdglisbon.xyz",
   "mailchimp": {
     "url": "https://google.us13.list-manage.com/subscribe/post?u=ab348098372d2b33687f05541&amp;id=4a202ed14d",
     "name": "b_ab348098372d2b33687f05541_4a202ed14d"
@@ -144,7 +144,7 @@
     ]
   },
   "tickets": {
-    "url": "https://devfestlisbon.firebaseapp.com/blog/posts/dfgdglx-2016-tickets-soon/",
+    "url": "https://www.eventbrite.pt/e/gdg-devfest-lisbon-16-registration-27716796685",
     "elements": [
     ]
   },
@@ -203,7 +203,7 @@
     }
   },
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyC-jCiKThI8zKBlW5coSVedMpTb1TUlgm0",
     "link": "https://tecnico.ulisboa.pt/pt/",
     "pointer": {
       "latitude": 38.7370211,

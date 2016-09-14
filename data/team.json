@@ -1,6 +1,6 @@
 [
   {
-    "title": "Core Team",
+    "title": "GDG Core Team",
     "members": [
       {
         "name": "Filipe Barroso",
@@ -51,21 +51,31 @@
     ]
   },
   {
-    "title": "HackerSchool",
+    "title": "HackerSchool Friends",
     "members": [
       {
         "name": "João Guerreiro",
         "photoUrl": "/images/people/joao_guerreiro.jpg",
         "socials": [
+          {
+            "icon": "website",
+            "link": "http://web.ist.utl.pt/~joao.leao.guerreiro/",
+            "name": "Website"
+          }
         ],
-        "title": "HackerSchool"
+        "title": "HackerSchool Presidente"
       },
       {
         "name": "João Oliveira",
         "photoUrl": "/images/people/joao_oliveira.jpg",
         "socials": [
+          {
+            "icon":"linkedin",
+            "link":"https://www.linkedin.com/in/joaooliveira93",
+            "name":"Linkedin"
+          }
         ],
-        "title": "HackerSchool"
+        "title": "HackerSchool Vice-Presidente"
       }
     ]
   },
@@ -82,7 +92,7 @@
             "name": "Website"
           }
         ],
-        "title": "Oficial Photographer"
+        "title": "Official Photographer"
       },
       {
         "name": "Kaltrina Neves",
