@@ -24,12 +24,12 @@
         ]
     }, {
         "startTime": "09:55",
-        "endTime": "10:15",
+        "endTime": "10:20",
         "sessions": [
             [93]
         ]
     }, {
-        "startTime": "10:15",
+        "startTime": "10:20",
         "endTime": "11:00",
         "sessions": [
             [104]
@@ -54,24 +54,24 @@
         ]
     }, {
       "startTime":"13:00",
-      "endTime":"14:00",
+      "endTime":"14:15",
       "sessions":[
         [106]
       ]
     }, {
-        "startTime": "14:00",
-        "endTime": "14:45",
+        "startTime": "14:15",
+        "endTime": "15:00",
         "sessions": [
             [103]
         ]
     }, {
-        "startTime": "14:45",
+        "startTime": "15:00",
         "endTime": "15:30",
         "sessions": [
             [94]
         ]
     }, {
-        "startTime": "15:30",
+        "startTime": "15:45",
         "endTime": "16:15",
         "sessions": [
             [107]

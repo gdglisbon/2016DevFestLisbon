@@ -1,0 +1,17 @@
+**Part 2 - schedule**
+
+Afternoon schedule at GDG Lisbon
+
+From our neighbouring GDG Community in Coimbra, Carlos Mota, currently a senior software engineer at [WIT-Software](https://www.wit-software.com/) where he works on RCSe applications for both iOS and Android. Also still manages to still work on developing mobile applications and creating a game with friends! At 14.00h he discusses the main thing everyone complains about when using an application and that is of course – Speed! (What´s our main complaint when we use an application? - Speed!)
+
+Pedro Vicente is a software engineer with deep interests in mobile software development, he has been developing mobile apps since 2009. Currently a Software Craftsman at [Mindera](http://www.mindera.com/), also looks after the neighbouring GDG Community in Porto. His presentation Android´s Warp pipe. Really. Like Super Mario is on at 14.45h.
+
+Coming all the way from the depths of Czech Republic - [Ivan Kutil](https://developers.google.com/experts/people/ivan-kutil), a certified Google Developer Expert. He co-founded [AppSatori](http://www.appsatori.eu/en/home/) (now acquired by Etnetera Group) a startup that helps companies and startups design, develop and improve internal tools to automated processes with Google Apps Script.
+
+Ivan will be sharing his expertise and experience with web apps, at 16.15h: Business Progressive Web App with Firebase, Google Apps Script and Google Maps API.
+
+Finishing with our last speaker, Francisco Franco an Android developer, has six years experience in building applications and custom kernels for Nexus devices.  Francisco in the last couple of years has built several apps and services, the most popular being FKUpdater and Focus, an innovative photo/video gallery replacement. He will be showing some practical examples of custom patches for the Android Kernel to improve battery and much more at 17.00h.
+
+Come and listen to our range of speakers - Tickets are available [now](https://www.eventbrite.pt/e/gdg-devfest-lisbon-16-registration-27716796685) .
+
+Follow us on [Facebook](https://www.facebook.com/GDGLisbon/), [Twitter](https://twitter.com/GDGLisbon), [LinkedIn](https://www.linkedin.com/groups/8487369) and [Google+](https://plus.google.com/+GDG-Lisbon) for all the latest updates.

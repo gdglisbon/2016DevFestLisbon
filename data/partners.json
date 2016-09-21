@@ -58,6 +58,11 @@
         "name":"Portugal a Programar",
         "url":"http://www.portugal-a-programar.pt/",
         "logoUrl":"../images/logos/devfest_pap.png"
+      },
+      {
+        "name":"Canal Superior",
+        "url":"http://www.canalsuperior.pt/",
+        "logoUrl":"../images/logos/devfest_cs.png"
       }
     ]
   },

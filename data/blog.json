@@ -34,5 +34,23 @@
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/dfgdglx-intro.jpg",
     "brief": "A great opportunity for developers to come together listen to experts and exchange ideas."
+  },
+  {
+    "id": "dfgdglx-2016-part1",
+    "title": "Part 1 - schedule",
+    "posted": "2016-10-20",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/part1.jpg",
+    "brief": "4 days to go until GDG DevFest Lisbon!"
+  },
+  {
+    "id": "dfgdglx-2016-part2",
+    "title": "Part 2 - schedule",
+    "posted": "2016-10-21",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/part2.jpg",
+    "brief": "Afternoon schedule at GDG Lisbon"
   }
 ]

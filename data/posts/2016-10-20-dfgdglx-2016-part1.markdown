@@ -1,0 +1,19 @@
+**Part 1 - schedule**
+
+4 days to go until GDG DevFest Lisbon!
+
+A jam-packed day for you! Starting with Sergio Almeida, a senior front-end developer at [Growin](http://www.growin.pt/) that specializes in HTML5, CSS3 and JQuery. He has worked directly with some high-end clients including Grupo Salvador Caetano, TAP, ViaVerde and Médis. At this year´s DevFest, Sergio looks into how you can improve efficiency, from problem solving to team building and get your project flourishing. 09.30h - Development Wars: Sabotage Your Project.
+
+Next up on the stage, Joao Ventura a full-stack Python developer and working on [Flatangle](http://flatangle.com/) (a services and software startup). So naturally will focusing on Python, looking at how you can Reuse Python code in native Android applications (09.55h), using PyBridge as an example.
+
+At 10.15am – 11am, Bruno Oliveira, a mobile developer from [Faber Ventures](http://www.faber-ventures.com/) will give a technical presentation on how to Create your Gradle plugin using Kotlin at 10.15h.
+
+Fabio Carballo, an Android developer working on the [Hole19](https://www.hole19golf.com/) app – a great tool for all you golfers, will be showing us how to use the Kotlin based Spek testing framework on Android, and then how you can use it to test your app. 11.30h - Using Spek to test with Kotlin
+
+Working on Android and Product at [Doist](https://doist.com/) (makers of Todoist), Goncalo Silva will of course be giving an insight into how Todoist came about. Building Todoist: from Past, Present and Future at 12.15h.
+
+Come and listen to our range of speakers - Tickets are available [now](https://www.eventbrite.pt/e/gdg-devfest-lisbon-16-registration-27716796685) .
+
+Find out about the rest of our speakers at GDG DevFest Lisbon in part 2!
+
+Follow us on [Facebook](https://www.facebook.com/GDGLisbon/), [Twitter](https://twitter.com/GDGLisbon), [LinkedIn](https://www.linkedin.com/groups/8487369) and [Google+](https://plus.google.com/+GDG-Lisbon) for all the latest updates.

@@ -63,7 +63,7 @@
     },
     "103": {
         "id": 103,
-        "title": "What\u2019s our main complaint when we use an application?- Speed!",
+        "title": "Perception of Speed",
         "description": "We all expect speed. We want to access everything from the point of our fingers and we want that as fast as possible. When an application is taking to long to open or process some data I bet you also feel the urge to search for another solution - or just to throw your smartphone against the nearest wall in despair. And while you think about this, you’re looking at that never ending spinner… that... it just doesn\u2019t seem to go away.\nGoogle Play and the App Store are full of similar solutions... Why should I bother to keep using this one?\nWe can make all sort of optimisations on our code - and yet, sometimes, we can\u2019t really make that process as fast as we wanted. There are always some constraints that we can\u2019t really avoid - device limitations, network, server, etc. but we can create the illusion of speed - a visual aid that keeps the user busy while, on the background, we are processing his action.\nYes. Time is relative and we want the users to feel that every action is as responsible as possible.",
         "speakers": [
             3

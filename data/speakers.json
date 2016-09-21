@@ -97,8 +97,8 @@
 		"companyLogo": "/images/logos/devfest_fv.png",
 		"country": "Portugal",
 		"photoUrl": "/images/people/devfest_bo.jpg",
-		"shortBio": ".",
-		"bio": ".",
+		"shortBio": "Trying to solve real world problems and help the open source community.",
+		"bio": "Bruno Oliveira is a Mobile developer currently helping startups on early stages at Faber-Ventures. Huge fan of Rx , mostly RxSwift and RxJava/Kotlin, specifically in conjunction with FRP architectures. Always trying to solve real world problems and help the open source community.",
 		"tags": [
 			"Android"
 		],
@@ -151,12 +151,12 @@
 		"shortBio": "Ivan is an enthusiastic programmer and integration architect who\u2019s focused on deployment, development, training and consulting across the Google Apps platform",
 		"bio": "Ivan is an enthusiastic programmer and integration architect who’s focused on deployment, development, training and consulting across the Google Apps platform. In 2009, he started a company called AppSatori, which is now one of the most important partners for Google Apps in the Czech Republic. This company was later acquired by Etnetera Group in 2014.\nIvan’s role is helping companies and start-ups design, develop and improve internal tools to automate processes with Google Apps Script. He\u2019s presented at events like WebExpo Prague, Devfest or Google Developer Day.\nHe\u2019s also a certified Google Apps Sales Specialist, Google Apps Deployment Specialist, and Google Apps Certified Administrator.\nIvan studied at Czech Technical University and University of Economics in Prague. He loves reading, maths and science in general.",
 		"tags": [
-			"Android", "Google Apps", "Maps", "Progressive Web Apps", "Firebase"
+			"Google Apps", "Maps", "Progressive Web Apps", "Firebase"
 		],
 		"badges": [
       {
           "name": "GDE",
-          "description": "Android Google Developer Expert",
+          "description": "Google Developer Expert",
           "link": "https://developers.google.com/experts/people/ivan-kutil.html"
       }
 		],
