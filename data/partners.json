@@ -67,12 +67,18 @@
     ]
   },
   {
-    "title":"drink-partner",
+    "title":"food-and-drink-partner",
     "logos": [
       {
         "name": "Luso",
         "url": "http://www.sociedadeagualuso.pt/",
         "logoUrl": "../images/logos/devfest_luso.jpg",
+        "width": 300
+      },
+      {
+        "name": "Domino's Pizza",
+        "url": "https://www.dominospizza.pt/",
+        "logoUrl": "../images/logos/devfest_dominos.jpg",
         "width": 300
       }
     ]
