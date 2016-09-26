@@ -52,5 +52,23 @@
     "secondaryColor": "#00BCD4",
     "image": "/images/posts/part2.jpg",
     "brief": "Afternoon schedule at GDG Lisbon"
+  },
+  {
+    "id": "dfgdglx-2016-keepcontact",
+    "title": "Don't be a stranger",
+    "posted": "2016-10-26",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/keepincontact.jpg",
+    "brief": "Slides and contacts"
+  },
+  {
+    "id": "dfgdglx-2016-seeyousoon",
+    "title": "Catch you on the flip side!",
+    "posted": "2016-10-26",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/seeyousoon.jpg",
+    "brief": "DevFestLisbon '16 is over."
   }
 ]
