@@ -627,31 +627,28 @@ const userActions = {
 const subscribeActions = {
   subscribe: (data) => (dispatch) => {
     const id = data.email.replace(/[^\w\s]/gi, '');
-
-    firebase.firestore().collection('subscribers')
-      .doc(id)
-      .set({
-        email: data.email,
-        firstName: data.firstFieldValue || '',
-        lastName: data.secondFieldValue || '',
-      })
-      .then(() => {
-        dispatch({
-          type: SUBSCRIBE,
-          subscribed: true,
-        });
-        toastActions.showToast({ message: '{$ subscribeBlock.toast $}' });
+    const url = `https://us13.api.mailchimp.com/3.0/lists/b28c252858/members`;
+    const subscribePromise = fetch(url, {
+      method: 'POST',
+      mode: 'no-cors',
+      body: JSON.stringify(data),
+      headers: {
+        'Authorization': `apiKey 125b0a84e6196474857c06a0e3f82c1d-us13`,
+        'Content-Type': 'application/json',
+      },
+    }).then(({ status, title }) => {
+        if (status === 400 && title === 'Member Exists') {
+          toastActions.showToast({ message: '{$ subscribeBlock.toast $}' });
+        } else {
+          dispatch({
+            type: SUBSCRIBE,
+            subscribed: true,
+          });
+          toastActions.showToast({ message: '{$ subscribeBlock.toast $}' });
+        }
       })
       .catch((error) => {
-        dispatch({
-          type: SET_DIALOG_DATA,
-          dialog: {
-            ['subscribe']: {
-              isOpened: true,
-              data: Object.assign(data, { errorOccurred: true }),
-            },
-          },
-        });
+        toastActions.showToast({ message: '{$ subscribeBlock.toast $}' });
 
         dispatch({
           type: SUBSCRIBE,

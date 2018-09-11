@@ -30,12 +30,22 @@
       }
 
       .hero-overlay[show] {
-        opacity: 1;
+        opacity: 0;
       }
 
       .hero-image {
         transition: background-color 0.3s;
         position: absolute;
+      }
+
+      .hover-hero-image {
+        transition: background-color 0.3s;
+        position: absolute;
+        top: unset;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        max-width: 80vw;
       }
 
       .container {
@@ -73,6 +83,16 @@
         }
       }
 
+      @media (max-width: 768px) {
+        /* .hover-hero-image {
+          bottom: 44vh;
+          max-width: 90vw;
+        }
+        .hero-image {
+          bottom: 50vh;
+        } */
+      }
+
     </style>
 
     <div
@@ -83,10 +103,17 @@
       <plastic-image
         class="hero-image"
         srcset="[[backgroundImage]]"
-        style$="background-color: [[backgroundColor]]"
+        style$="background: [[backgroundColor]]"
         sizing="cover"
         lazy-load preload fade fit
       ></plastic-image>
+      <!-- <img
+        class="hover-hero-image"
+        srcset="/images/backgrounds/illustration-devfest.svg"
+        style="background: transparent"
+        sizing="cover"
+        lazy-load preload fade fit
+      ></img> -->
       <div class="hero-overlay" show$="[[_showOverlay(backgroundImage)]]" fit></div>
       <div class="container">
         <div class="hero-content">

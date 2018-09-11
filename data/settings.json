@@ -1,9 +1,8 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Lisbon",
+    "twitter": "gdglisbon",
+    "url": "https://www.gdglisbon.xyz/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -15,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "devfestlx",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -37,19 +36,14 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "The biggest Google tech conference in Lisbon.",
       "background": {
-        "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "color": "linear-gradient(to right, #2961c0, #b95e5b)",
+        "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"
     },
@@ -113,20 +107,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "TBA",
+    "city": "Lisbon",
+    "short": "Lisbon, Portugal",
+    "address": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 38.7302026,
+      "longitude": -9.1606332,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 38.7302026,
+      "longitude": -9.1606332
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "TBA"
   },
   "mediaQueries": {
     "xs": {
@@ -148,19 +142,15 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGLisbon"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://twitter.com/gdglisbon/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UC9dD-ycFmc20HVgmBmyAbTA"
       }
     ],
     "share": [
@@ -212,7 +202,7 @@
       "itemsCount": 2
     },
     "blog": {
-      "itemsCount": 3
+      "itemsCount": 0
     },
     "speakers": {
       "itemsCount": 4
