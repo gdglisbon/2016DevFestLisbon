@@ -1,6 +1,6 @@
 {
   "organizer": {
-    "name": "GDG Lisbon",
+    "name": "GDG Lisboa",
     "twitter": "gdglisbon",
     "url": "https://www.gdglisbon.xyz/"
   },
@@ -8,13 +8,13 @@
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#2961c0",
+    "backgroundColor": "#2961c0"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "pt-PT"
   },
-  "hashtag": "devfestlx",
+  "hashtag": "devfest18",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -106,21 +106,21 @@
     }
   },
   "location": {
-    "label": "Location",
+    "label": "Lisboa",
     "name": "TBA",
     "city": "Lisbon",
-    "short": "Lisbon, Portugal",
-    "address": "",
+    "short": "Lisboa, Portugal",
+    "address": "Av. Fontes Pereira de Melo 37 1050-010 Lisboa, Portugal",
     "pointer": {
-      "latitude": 38.7302026,
-      "longitude": -9.1606332,
+      "latitude": 38.7306741,
+      "longitude": -9.146725,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 38.7302026,
-      "longitude": -9.1606332
+      "latitude": 38.7306741,
+      "longitude": -9.146725
     },
-    "description": "TBA"
+    "description": "Altice Headquarters with some amazing conferences rooms and space, they will be our host."
   },
   "mediaQueries": {
     "xs": {
@@ -168,7 +168,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "lisbon.gdg@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"

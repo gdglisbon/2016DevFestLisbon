@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "December 8, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://bit.ly/devfest18-partnership",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "/team/",
           "newTab": true
         }
       ]
@@ -56,8 +56,13 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFLX 2017",
+          "name": "DevFest Lisbon  2017",
           "url": "https://devfest17.gdglisbon.xyz/",
+          "newTab": true
+        },
+        {
+          "name": "DevFest Lisbon 2016",
+          "url": "https://goo.gl/photos/MckhZxXjrvUfMDZM9",
           "newTab": true
         }
       ]
@@ -100,8 +105,8 @@
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "label": "See how it was in 2017",
+        "youtubeId": "https://devfest17.gdglisbon.xyz/"
       }
     },
     "statisticsBlock": {
@@ -115,7 +120,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "TBA"
+        "number": "16"
       },
       "tracks": {
         "label": "Tracks",
@@ -125,7 +130,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference sections, workshops, coffee breaks, lunch and party. Accommodation or transportation are NOT included in the ticket price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -142,10 +147,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DFLX'16 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": ""
     }
   },
   "blog": {
@@ -183,7 +188,7 @@
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/bz1clbcTUrGhihD12"
     }
   },
   "mapBlock": {
@@ -248,7 +253,7 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) Lisbon - is an independent and volunteer community that aims to organize the best workshops, codelabs and talks about Google related technologies.  Our goal is to organize a sharing space in order to connect developers, designers and business related experts in Portugal and in the world.",
+        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> with support of WomenTechMarkers Lisbon and Code In The Dark Team is proud organizer of DevFest Lisbon.",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
