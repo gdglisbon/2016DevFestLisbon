@@ -245,15 +245,15 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> is a proud organizer of DevFest Lisbon together with WTM Lisbon",
+        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> with support of WomenTechMarkers Lisbon and Code In The Dark Team is proud organizer of DevFest Lisbon.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> with support of WomenTechMarkers Lisbon and Code In The Dark Team is proud organizer of DevFest Lisbon.",
+        "title": "GDG is...",
+        "description": "Run by passionate individuals in local developer communities; Focused on developers and educational technical content; Open to and free for all interested;",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
