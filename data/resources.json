@@ -81,14 +81,9 @@
           "newTab": true
         },
         {
-          "name": "Call for Papers",
-          "url": "http://bit.ly/DevFest18Lx-Call4Speakers",
+          "name": "Media Accreditation",
+          "url": "https://goo.gl/forms/3zyK9XL8dlQ4tEz02",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -147,7 +142,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFLX'16 featured videos",
+    "title": "DFLX'17 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": ""
