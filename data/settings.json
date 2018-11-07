@@ -36,6 +36,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "https://medium.com/@GDGLisbon",
+      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -147,6 +152,10 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/gdglisbon/"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gdglisbon/"
       },
       {
         "name": "youtube",
