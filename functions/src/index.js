@@ -1,4 +1,3 @@
-import * as functions from 'firebase-functions';
 import admin from 'firebase-admin';
 
 import saveUserData from './save-user-data';
