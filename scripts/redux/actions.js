@@ -24,12 +24,6 @@ const uiActions = {
       value,
     });
   },
-  setAddToHomeScreen: (value) => {
-    store.dispatch({
-      type: SET_ADD_TO_HOMESCREEN,
-      value,
-    });
-  },
 };
 
 const routingActions = {
