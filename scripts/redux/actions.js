@@ -282,7 +282,6 @@ const speakersActions = {
           })
           .catch(reject);
     });
-
     return Promise.all([speakersPromise])
         .then(([speakers]) => {
           dispatch({

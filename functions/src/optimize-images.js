@@ -1,5 +1,5 @@
 import { storage } from 'firebase-functions';
-import Storage from '@google-cloud/storage';
+const {Storage} = require('@google-cloud/storage');
 import { spawn } from 'child-process-promise';
 import mkdirp from 'mkdirp-promise';
 import path from 'path';
