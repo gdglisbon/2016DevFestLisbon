@@ -1,0 +1,117 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/shared-styles.html">
+<link rel="import" href="../../bower_components/iron-pages/iron-pages.html">
+
+<dom-module id="live-page">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
+    <style>
+      :host {
+        display: block;
+      }
+      .nav-items {
+        --paper-tabs-selection-bar-color: var(--default-primary-color);
+        --paper-tabs: {
+          height: 64px;
+        };
+        width: 100%;
+      }
+
+      .nav-item a {
+        padding: 0 14px;
+        color: var(--primary-text-color);
+      }
+      app-toolbar {
+        margin: 0 auto;
+        padding: 0 16px;
+        height: auto;
+        max-width: var(--max-container-width);
+      }
+      @media (min-width: 640px) {
+        app-toolbar {
+          padding: 0 36px;
+        }
+      }
+    </style>
+
+    <polymer-helmet
+      title="Live Stream"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.live.background.image $}"
+      background-color="{$ heroSettings.live.background.color $}"
+      font-color="{$ heroSettings.live.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.live.title $}</div>
+      <!-- <p class="hero-description">{$ heroSettings.live.description $}</p> -->
+      <sticky-element slot="bottom" active="[[active]]">
+        <app-toolbar class="bottom-toolbar">
+          <paper-tabs
+            class="nav-items"
+            selected="{{selected}}"
+            scrollable
+            hide-scroll-buttons
+            noink
+          >
+            <paper-tab class="nav-item">
+              Green
+            </paper-tab>
+            <paper-tab class="nav-item">
+              Blue
+            </paper-tab>
+          </paper-tabs>
+        </app-toolbar>
+      </sticky-element>
+    </hero-block>
+    <div class="container">
+      <iron-pages selected="{{selected}}">
+        <div>
+          <iframe src="https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Ty0yUOCFe2E0PAOVYkcD/mov/24" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+          <br />
+          <a href="https://app2.sli.do/event/ibyr1grv/questions">Do you have questions? You can ask them here!</a>
+        </div>
+        <div>
+          <iframe src="https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/R9jwNqKcl3TBZ4z4hMPw/mov/24" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+          <br />
+          <a href="https://app2.sli.do/event/nwizo0j0/questions">Do you have questions? You can ask them here!</a>          
+        </div>
+      </iron-pages>
+
+    <!-- <md-content md-source="[[source]]"></md-content> -->
+    </div>
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class LivePage extends Polymer.Element {
+      static get is() {
+        return 'live-page';
+      }
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ live $}',
+          },
+          selected: {
+            type: Number,
+            value: 0,
+            notify: true,
+            reflectToAttribute: true,
+          },
+        };
+      }
+    }
+
+    window.customElements.define(LivePage.is, LivePage);
+  </script>
+</dom-module>

@@ -41,6 +41,11 @@
       "route": "blog",
       "permalink": "https://medium.com/@GDGLisbon",
       "label": "Blog"
+    },
+    {
+      "route": "live",
+      "permalink": "/live/",
+      "label": "Live"
     }
   ],
   "heroSettings": {
@@ -104,6 +109,15 @@
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "live": {
+      "title": "Live Stream",
+      "metaDescription": "Descriptions here",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#fff"
       },
