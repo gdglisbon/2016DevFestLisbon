@@ -49,7 +49,7 @@
     "home": {
       "description": "The biggest Google tech conference in Lisbon.",
       "background": {
-        "color": "none",
+        "color": "#3B4D69",
         "image": "/images/backgrounds/devfest.svg"
       },
       "fontColor": "#FFF"

@@ -33,6 +33,12 @@
       .hero-image {
         transition: background-color 0.3s;
         position: absolute;
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-image: url(/images/backgrounds/devfest.svg);
       }
 
       .container {
@@ -40,7 +46,10 @@
         width: 100%;
         height: unset;
         z-index: 0;
-        position: unset;
+        position: absolute;
+        bottom: 40px;
+        left: 50%;
+        transform: translateX(-50%);
       }
 
       .hero-content {
@@ -58,6 +67,14 @@
         margin-bottom: 30px;
         max-width: 600px;
       }
+
+      @media (max-width:500px) {
+        .hero-image {
+          background-image: url(/images/backgrounds/devfest-mobile.svg);
+        }
+      }
+
+
 
       @media (min-width: 812px) {
         :host {
@@ -77,14 +94,16 @@
       style$="color: [[fontColor]]"
       layout start vertical center-justified
     >
-      <plastic-image
+    <div class="hero-image"></div>
+      <!-- <plastic-image  
         class="hero-image"
         srcset="[[backgroundImage]]"
         style$="background-color: [[backgroundColor]]"
+        fallback-src="[[backgroundImage]]"
         sizing="cover"
         lazy-load preload fade fit
-      ></plastic-image>
-      <div class="hero-overlay" show$="[[_showOverlay(backgroundImage)]]" fit></div>
+      ></plastic-image> -->
+      <div class="hero-overlay" fit></div>
       <div class="container">
         <div class="hero-content">
           <slot></slot>
