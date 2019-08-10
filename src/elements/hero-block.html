@@ -35,6 +35,13 @@
         position: absolute;
         height: 100%;
         width: 100%;
+        background-color: white;
+        background-size: unset;
+        background-position: unset;
+        background-repeat:unset;
+        background-image: unset;
+      }
+      :host([hide-logo]) .hero-image {
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -46,6 +53,9 @@
         width: 100%;
         height: unset;
         z-index: 0;
+        position: unset;
+      }
+      :host([hide-logo]) .container {
         position: absolute;
         bottom: 40px;
         left: 50%;
@@ -69,7 +79,7 @@
       }
 
       @media (max-width:500px) {
-        .hero-image {
+        :host([hide-logo])  .hero-image {
           background-image: url(/images/backgrounds/devfest-mobile.svg);
         }
       }

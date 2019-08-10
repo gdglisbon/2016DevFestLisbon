@@ -51,8 +51,9 @@
           height: 64px;
         };
       }
-      :host([transparent]) .nav-items {
-        --paper-tabs-selection-bar-color: var(--default-background-color);;
+
+      :host([transparent]) .nav-items[is-home]{
+        --paper-tabs-selection-bar-color: var(--default-background-color);
       }
 
       .nav-item a,
@@ -146,6 +147,7 @@
         hidden$="[[!viewport.isLaptopPlus]]"
         role="navigation"
         noink
+        is-home$="[[_isHome(route.route)]]"
       >
         {% for nav in navigation %}
         <paper-tab name="{$ nav.route $}" class="nav-item" link>
@@ -352,6 +354,10 @@
           '--hero-logo-opacity': settings.hideLogo ? '0' : '1',
           '--hero-logo-color': settings.backgroundImage ? '#fff' : 'var(--default-primary-color)',
         });
+      }
+
+      _isHome(path) {
+        return path === 'home';
       }
     }
 
