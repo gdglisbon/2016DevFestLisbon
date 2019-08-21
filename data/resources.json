@@ -272,6 +272,20 @@
       }
     ]
   },
+  "aboutVostBlock": {
+    "image": "/images/logos/vost-portugal.png",
+    "blocks": [
+      {
+        "title": "VOST Portugal",
+        "description": "<a href='https://vost.pt/' target='_blank'>VOST Portugal</a>, a group of digital volunteers in emergency situations, counts on a multidisciplinary team that assists the populations in the social networks in case of adverse weather and natural disasters, and in time of peace it dedicates itself to educate the populations towards self-resilience, and to find innovative solutions based on technology and design to help populations. VOST Portugal is part of VOST Europe, which has 8 European countries in its group.",
+        "callToAction": {
+          "label": "Learn More",
+          "link": "https://vost.pt/",
+          "newTab": true
+        }
+      }
+    ]
+  },
   "signInDialog": {
     "alreadyHaveAccount": "You already have an account",
     "alreadyUsed": "You've already used",

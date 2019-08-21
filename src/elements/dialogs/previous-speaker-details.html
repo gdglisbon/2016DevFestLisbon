@@ -82,7 +82,7 @@
           </template>
         </div>
 
-        <div class="additional-sections" hidden$="[[!speaker.sessions]]">
+        <div class="additional-sections" hidden>
           <h3>{$ speakerDetails.sessions $}</h3>
 
           <template is="dom-repeat" items="[[_getSessions(speaker.sessions)]]" as="session">
