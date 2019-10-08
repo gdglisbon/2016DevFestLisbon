@@ -108,21 +108,21 @@
     }
   },
   "location": {
-    "label": "Lisbon",
-    "name": "TBA",
+    "label": "Universidade NOVA de Lisboa",
+    "name": "Universidade NOVA de Lisboa",
     "city": "Lisbon",
-    "short": "Lisbon",
-    "address": "Lisbon",
+    "short": "Reitoria da Universidade Nova de Lisboa",
+    "address": "Reitoria da Universidade Nova de Lisboa",
     "pointer": {
-      "latitude": 38.7306741,
-      "longitude": -9.146725,
+      "latitude": 38.733747,
+      "longitude": -9.160286,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 38.7306741,
-      "longitude": -9.146725
+      "latitude": 38.733747,
+      "longitude": -9.160286
     },
-    "description": "TBA"
+    "description": "Universidade NOVA de Lisboa"
   },
   "mediaQueries": {
     "xs": {
