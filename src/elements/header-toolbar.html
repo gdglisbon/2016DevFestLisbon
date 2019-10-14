@@ -343,7 +343,7 @@
 
       _getTicketUrl(tickets) {
         if (!tickets.list.length) return '';
-        const availableTicket = tickets.list.filter((ticket) => ticket.available)[0];
+        const availableTicket = tickets.list.filter((ticket) => ticket.available)[1];
         return availableTicket ? availableTicket.url : tickets.list[0].url;
       }
 

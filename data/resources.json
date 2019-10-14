@@ -255,7 +255,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> with support of WomenTechMarkers Lisbon and Code In The Dark Team is proud organizer of DevFest Lisbon.",
+        "description": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> with support of WomenTechMarkers Lisbon is proud organizer of DevFest Lisbon.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
