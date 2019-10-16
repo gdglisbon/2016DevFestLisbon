@@ -2,19 +2,19 @@
 
 ### Dates and location
 
-GDG DevFest Lisbon will take place on the 8th of December in [Altice Portugal]( https://goo.gl/maps/87be3Xx18Du) Lisboa.
+GDG DevFest Lisbon will take place on the 7th of December in [Rectorate of Universidade NOVA de Lisboa]( https://goo.gl/maps/wB2TDy9mc8CUYknW8).
 
 ### Stay Informed
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdglisbon.xyz/), RSVP on [Meetup]( https://www.meetup.com/gdglisbon/events/254067020/) and follow us on [Facebook](https://www.facebook.com/GDGLisbon/) and [Twitter](https://twitter.com/GDGLisbon). You can also follow and join the social conversation about GDG DevFest Lisbon via official hashtags #DFLX and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdglisbon.xyz/), RSVP on [Meetup]( https://www.meetup.com/gdglisbon/events/263553938/) and follow us on [Facebook](https://www.facebook.com/GDGLisbon/) and [Twitter](https://twitter.com/GDGLisbon). You can also follow and join the social conversation about GDG DevFest Lisbon via official hashtags #DFLX and #Devfest19. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
 
 ### Content Formats
 
-During the conference attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
+During the conference attendees will be able to attend sessions and hands-on workshops, participate in the Hackaton, chat with experts and attendees at coffee breaks and after party, and more.
 
 ### Drawing Dates
 
-The window to buy a ticket will be opened until 6PM GMT+1 on December 1th 2018, or earlier if the tickets are sold out. To buy a ticket [follow the link]( https://ti.to/gdg-devfest-lisbon/gdg-devfest-lisbon-18), select required ticket type, fill in the required information and pay for it.
+The window to buy a ticket will be opened until 6PM GMT+1 on December 6th 2019, or earlier if the tickets are sold out. To buy a ticket [follow the link]( https://ti.to/gdg-devfest-lisbon/2019-devfest), select required ticket type, fill in the required information and pay for it.
 
 Once you've successfully payed for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
 
@@ -25,13 +25,7 @@ Once you've successfully payed for the ticket you’ll reach a confirmation scre
 
 General Admission: €10
 
-Conditions: September 20 - October 25 or first 100 tickets
-
-#### **Lazy birds tickets**
-
-General Admission: €20
-
-Conditions: October 25 - December 1 or until tickets will be sold out
+Conditions: October 6 - November 8 or first 200 tickets
 
 #### **EDU (Students/lecturers) Tickets**
 
@@ -51,8 +45,8 @@ We’ll be offering a limited number of press passes to qualified members of the
 - By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Lisbon, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization. 
 - At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Lisbon badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference. 
 - If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Lisbon, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check in at the conference. 
-- Ticket purchases can be refunded before December 1th, 2018 via your profile at the [ticket service website]( https://ti.to/gdg-devfest-lisbon/gdg-devfest-lisbon-18). 
-- After December 1th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance. 
+- Ticket purchases can be refunded before December 1th, 2019 via your profile at the [ticket service website]( https://ti.to/gdg-devfest-lisbon/2019-devfest). 
+- After December 1th, 2019, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance. 
 - Attendees aren’t permitted to bring guests to GDG DevFest Lisbon or to the after hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket. 
 - Photographs and/or video taken at GDG DevFest Lisbon by GDG Lisbon, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Lisbon may use such photographs and/or video for any purpose without any compensation to you. 
 - All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company and title), will be displayed on the attendee badge. 
@@ -77,9 +71,9 @@ All presentations at GDG DevFest Lisbon will be in English or Portuguese and wil
 
 ### Badges & Badge Pick-up
 
-To expedite the check-in process, we’ll begin badge pick-up on Friday, December 7, during the public debate. (Location to be announced) Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Lisbon badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
+To expedite the check-in process, we’ll begin badge pick-up on Friday, December 6, during the public debate. Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Lisbon badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
 
-Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 10AM on December 8th. So make sure to come in on time!
+Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 8AM on December 7th. So make sure to come in on time!
 
 Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Lisbon badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Lisbon badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Lisbon badges may include your name, company or work title (if provided).
 
@@ -87,9 +81,8 @@ Please note, you may not share, give, or otherwise provide your badge to anyone.
 
 ### Afterparty
 
-All registered attendees are invited to the afterparty on the evenings of December 8th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
+All registered attendees are invited to the afterparty on the evenings of December 7th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over. This is dependent of the conditions of the event and might be changed.
 
-  
 
 ### Event Attire
 
