@@ -1,6 +1,6 @@
 ## General
 
-### Dates and location
+### Dates and Location
 
 GDG DevFest Lisbon will take place on the 7th of December in [Rectorate of Universidade NOVA de Lisboa]( https://goo.gl/maps/wB2TDy9mc8CUYknW8).
 
@@ -31,7 +31,7 @@ Conditions: October 6 - November 8 or first 200 tickets
 
 We offer a limited number of tickets at a discounted rate of 10€ for full-time students and lecturers. To qualify, you need to be a student or a professor, faculty or staff at a higher education institution. Once purchased, general admission tickets can't be converted to EDU tickets, and vice versa.
 
-When you check in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other form of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
+When you check-in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other forms of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
 
 #### **Press Tickets**
 
@@ -77,17 +77,13 @@ Everyone is guaranteed a seat for the keynotes but the best seats will be assign
 
 Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Lisbon badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Lisbon badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Lisbon badges may include your name, company or work title (if provided).
 
-  
-
 ### Afterparty
 
 All registered attendees are invited to the afterparty on the evenings of December 7th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over. This is dependent of the conditions of the event and might be changed.
 
-
 ### Event Attire
 
 GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
-
 
 ### Smoking
 

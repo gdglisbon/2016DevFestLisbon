@@ -216,16 +216,20 @@
 
       .card {
         background-color: var(--default-background-color);
-        box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.07), 0 2px 2px 0 rgba(0, 0, 0, 0.15);
+        box-shadow: var(--box-shadow);
+        border-radius: var(--border-radius);
         transition: box-shadow var(--animation);
         cursor: pointer;
       }
 
       .tag {
-        margin-right: 2px;
-        padding: 2px 4px;
+        height: 32px;
+        padding: 8px 12px;
         font-size: 12px;
+        color: currentColor;
+        background: white;
         border: 1px solid currentColor;
+        border-radius: 32px;
       }
 
       @media (min-width: 640px) {

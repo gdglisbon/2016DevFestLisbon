@@ -17,7 +17,6 @@
   },
   "hashtag": "devfest18",
   "disabledSchedule": false,
-  "showSessionShortAbstract": true,
   "navigation": [
     {
       "route": "home",
@@ -98,8 +97,8 @@
       },
       "fontColor": "#3B4D69"
     },
-    "cod": {
-      "title": "Code Of Conduct",
+    "coc": {
+      "title": "Code of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
@@ -164,10 +163,6 @@
       }
     ],
     "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="

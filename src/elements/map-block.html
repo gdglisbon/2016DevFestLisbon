@@ -50,6 +50,7 @@
           padding: 24px;
           max-width: 320px;
           transform: translateY(80px);
+          border-radius: var(--border-radius);
         }
 
         .address {
@@ -79,7 +80,7 @@
         <div class="bottom-info" layout horizontal justified center>
           <span class="address">{$ location.address $}</span>
           <a
-            href="https://www.google.com/maps/dir/?api=1&destination={$ location.pointer.latitude $},{$ location.pointer.longitude $}"
+            href="https://www.google.com/maps/dir/?api=1&destination={$ location.address $}"
             target="_blank"
             rel="noopener noreferrer"
           >
