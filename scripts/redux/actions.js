@@ -275,7 +275,7 @@ const speakersActions = {
 
     const speakersPromise = new Promise((resolve, reject) => {
       firebase.firestore()
-          .collection('speakers')
+          .collection('generatedSpeakers')
           .orderBy('order', 'asc')
           .get()
           .then((snaps) => {
@@ -347,7 +347,7 @@ const sessionsActions = {
 
     return new Promise((resolve, reject) => {
       firebase.firestore()
-          .collection('sessions')
+          .collection('generatedSessions')
           .get()
           .then((snaps) => {
             const list = [];
@@ -453,7 +453,7 @@ const scheduleActions = {
     });
 
     return firebase.firestore()
-        .collection('schedule')
+        .collection('generatedSchedule')
         .get()
         .then((snaps) => {
           const scheduleDays = snaps.docs.map((snap) => snap.data());
