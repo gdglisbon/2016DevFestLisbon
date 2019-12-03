@@ -1,0 +1,205 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="../elements/shared-styles.html">
+
+<dom-module id="vost-page">
+  <template>
+    <style include="shared-styles flex flex-alignment">
+      :host {
+        display: block;
+      }
+
+      .description-wrapper {
+          background-color: var(--secondary-background-color);
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .team-title {
+        font-size: 30px;
+        line-height: 2.5;
+      }
+
+      .team-block {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 24px;
+        margin-bottom: 32px;
+      }
+
+      .member {
+        padding: 16px 0;
+        min-width: 300px;
+      }
+
+      .photo {
+        flex: none;
+        width: 96px;
+        height: 96px;
+        background-color: var(--contrast-additional-background-color);
+        border-radius: 50%;
+        overflow: hidden;
+        transform: translateZ(0);
+        border-radius: 50%;
+        border: 5px solid var(--contrast-additional-background-color);
+      }
+
+      .member-details {
+        color: var(--primary-text-color);
+        margin-left: 16px;
+      }
+
+      .name {
+        padding-left: 6px;
+        line-height: 1.2;
+      }
+
+      .activity {
+        font-size: 16px;
+        padding-left: 6px;
+      }
+
+      .social-icon {
+        --paper-icon-button: {
+          padding: 6px;
+          width: 32px;
+          height: 32px;
+        };
+
+        color: var(--secondary-text-color);
+        transition: transform var(--animation);
+      }
+
+      .social-icon:hover {
+        transform: scale(1.1);
+      }
+
+      @media (min-width: 640px) {
+        .team-block {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+         .member {
+          padding: 32px 0;
+        }
+      }
+
+      @media (min-width: 812px) {
+        .photo {
+          width: 115px;
+          height: 115px;
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .team-block {
+          grid-template-columns: repeat(3, 1fr);
+        }
+
+         .photo {
+          width: 128px;
+          height: 128px;
+        }
+      }
+
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.team.title $} | {$ title $}"
+      description="{$ heroSettings.team.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.team.background.image $}"
+      background-color="{$ heroSettings.team.background.color $}"
+      font-color="{$ heroSettings.team.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title">Hackathon</div>
+      <div class="hero-description">
+       
+        <p>Let’s improve active citizenship through problem solving!</p>
+        <p>Today we are announcing great news about our event!</p>
+        <p><a href="https://info.vost.pt/" target="_blank"><b>VOST Portugal</b></a> will be on Google DevFest, on December 6th and 7th, and will be available to support anyone interested in developing solutions to solve issues related to <b>News, Politics</b> and other topics.</p></p>
+        <p><b>Mentores:</b></p>
+        <ul>
+          <li>João Pina — Fogos.pt</li>
+          <li>Paulo Pena — DN</li>
+          <li>Nuno Simas — LUSA</li>
+          <li>Miguel Won</li>
+        </ul>
+      </div>
+    </hero-block>
+
+    <!-- <div class="description-wrapper">
+      <div class="container" layout horizontal justified>
+      </div>
+    </div> -->
+    
+    <div class="container">
+      <h3>Are you ready to solve problems and support the development of active citizenship?</h3>
+      <br>
+        <plastic-image
+        style="height:700px; width: 100%;"
+        srcset="/images/vost.png"
+        sizing="cover"
+        lazy-load preload fade fit
+      ></plastic-image>
+      <p>We’ll have a great team of mentors, who will help you brainstorm about problems and go through all the processes of conception and development.</p>
+      <p>Teams must have 3–5 participants.</p>
+      <p>Your team can choose between four themes:</p>
+      <ul style="list-style-type: decimal;">
+        <li>Fake News / Fake Information</li>
+        <li>Support for citizenship</li>
+        <li>infoexclusion / knowledge sharing</li>
+        <li>Political Transparency</li>
+      </ul>
+      <p>Hurry and grab your <a href="https://ti.to/gdg-devfest-lisbon/2019-devfest" target="_blank" >🎟 Hackathon ticket!🎟</a></p>
+      <p><strong>Pelas 18h30 do dia 7 de Dezembro cada equipa fará a sua apresentação de 5 minutos sobre a solução para se habilitar a ganhar um dos prémios:</strong></p>
+      <p><strong>Prémios:</strong></p>
+      <strong>1º Lugar:</strong>
+      <p>3 licenças JetBrains por 1 ano para qualquer produto
+      uma VPS por um ano para alojar a solução</p>
+      <strong>2º e 3º Lugar:</strong>
+      <p>One VPS por um ano para alojar a solução</p>
+      <p><strong>O Juri será composto por membros fundadores da VOST Portugal, uma associação de Voluntários Digitais para Situações de Emergència que integra a VOST Europe.</strong></p>
+    </div>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    class VostPage extends ReduxMixin(Polymer.Element) {
+      static get is() {return 'vost-page';}
+
+      static get properties() {
+        return {
+          active: Boolean,
+          team: {
+            type: Array,
+            statePath: 'team.list',
+          },
+          teamFetching: {
+            type: Boolean,
+            statePath: 'team.fetching',
+          },
+          teamFetchingError: {
+            type: Object,
+            statePath: 'team.fetchingError',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(VostPage.is, VostPage);
+
+  </script>
+</dom-module>
+

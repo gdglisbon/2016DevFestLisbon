@@ -39,6 +39,16 @@
       "label": "Team"
     },
     {
+      "route": "vost",
+      "permalink": "/vost/",
+      "label": "Hackathon"
+    },
+    {
+      "route": "Debate",
+      "permalink": "/debate/",
+      "label": "Debate"
+    },
+    {
       "route": "blog",
       "permalink": "https://medium.com/@GDGLisbon",
       "label": "Blog"

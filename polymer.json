@@ -10,6 +10,8 @@
     "src/pages/speakers-page.html",
     "src/pages/previous-speakers-page.html",
     "src/pages/team-page.html",
+    "src/pages/vost-page.html",
+    "src/pages/debate-page.html",
     "src/pages/faq-page.html",
     "src/pages/coc-page.html",
     "src/lazy-resources.html"

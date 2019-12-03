@@ -1,0 +1,189 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="../elements/shared-styles.html">
+
+<dom-module id="debate-page">
+  <template>
+    <style include="shared-styles flex flex-alignment">
+      :host {
+        display: block;
+      }
+
+      .description-wrapper {
+          background-color: var(--secondary-background-color);
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .team-title {
+        font-size: 30px;
+        line-height: 2.5;
+      }
+
+      .team-block {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 24px;
+        margin-bottom: 32px;
+      }
+
+      .member {
+        padding: 16px 0;
+        min-width: 300px;
+      }
+
+      .photo {
+        flex: none;
+        width: 96px;
+        height: 96px;
+        background-color: var(--contrast-additional-background-color);
+        border-radius: 50%;
+        overflow: hidden;
+        transform: translateZ(0);
+        border-radius: 50%;
+        border: 5px solid var(--contrast-additional-background-color);
+      }
+
+      .member-details {
+        color: var(--primary-text-color);
+        margin-left: 16px;
+      }
+
+      .name {
+        padding-left: 6px;
+        line-height: 1.2;
+      }
+
+      .activity {
+        font-size: 16px;
+        padding-left: 6px;
+      }
+
+      .social-icon {
+        --paper-icon-button: {
+          padding: 6px;
+          width: 32px;
+          height: 32px;
+        };
+
+        color: var(--secondary-text-color);
+        transition: transform var(--animation);
+      }
+
+      .social-icon:hover {
+        transform: scale(1.1);
+      }
+
+      @media (min-width: 640px) {
+        .team-block {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+         .member {
+          padding: 32px 0;
+        }
+      }
+
+      @media (min-width: 812px) {
+        .photo {
+          width: 115px;
+          height: 115px;
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .team-block {
+          grid-template-columns: repeat(3, 1fr);
+        }
+
+         .photo {
+          width: 128px;
+          height: 128px;
+        }
+      }
+
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.team.title $} | {$ title $}"
+      description="{$ heroSettings.team.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.team.background.image $}"
+      background-color="{$ heroSettings.team.background.color $}"
+      font-color="{$ heroSettings.team.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title">Cidadania Ativa — GDG DevFest Debate</div>
+      <div class="hero-description">
+        <p>No mundo globalizado, fortemente marcado pela desigualdade de direitos, de informação e de conhecimento, o voluntariado e é a primeira linha de defesa contra a fragmentação social.</p>
+      </div>
+    </hero-block>
+
+    <div class="description-wrapper">
+      <div class="container" layout horizontal justified>
+          tl;dr: No fim do dia 6 de Dezembro, véspera do Devfest, iremos ter um debate com o tema Cidadania Ativa. Mais informações no final do artigo.
+      </div>
+    </div>
+    
+    <div class="container">
+        <p><b>É uma expressão do envolvimento do individuo na sua comunidade, uma forma de dedicação a uma necessidade local ou global, seja esta social, politica, ambiental, cultural ou educativa. Hoje, talvez mais do que nunca, ser um cidadão ativo é uma necessidade e não um ato de caridade.</b></p>
+        <p>Este papel está presente na associação ambiental <a href="https://zero.ong/">ZERO</a>, que denuncia regularmente a falta de transparência em processos governamentais (por exemplo, <a href="https://zero.ong/aeroporto-do-montijo-uma-decisao-expectavel-e-ja-anunciada-num-processo-nao-conforme-e-com-lacunas-graves/" target="_blank">do aeroporto de Montijo, viabilizado pela APA - Agência Portuguesa do Ambiente e sem estudo de soluções alternativas</a>), sendo um motor de acção para o cumprimento da lei através da denúncia e da sensibilização.</p>
+        <p>Por sua vez a <a href="" target="_blank">VOST.pt</a> teve um papel fundamental na divulgação de informação util durante as Greve dos motoristas de matérias perigosas, onde voluntários dedicaram o seu tempo e conhecimento para criar uma <a href="https://janaodaparaabastecer.vost.pt/" target="_blank">plataforma</a> gratuita com o intuito de informar a população sobre o local mais próximo da rede de emergência e sobre o estado dos postos de combustível. Como em qualquer projeto aberto, não faltaram as comunicações propositadamente falsas e as tentativas de prejudicar a plataforma, o que levou a uma pressão junto das empresas gestoras de postos para divulgarem a própria informação na VOST.</p>
+        <p>A tentativa de desprestigiar o objeto de certo voluntariado ou acção coletiva — seja sobre a forma informal ou em associativismo, em prol de outro considerado prioritário, sempre existiu, vindo de quem não compreende ou de quem não faz. Não haverá um voluntário de qualquer projeto que não tenha ouvido “o que é que ganhas com isso?”.</p>
+        <p><b>Para uma sociedade antagónica onde o onde o interesse pessoal e privado ainda prevalece, onde o aproveitamento politico dos problemas e causas esmaga outras tão ou mais importantes, o conceito de cidadania é vulgarmente esquecido ou prejudicado, sendo por vezes considerado uma característica secundária dispensável. Mas não o é.</b></p>
+        <p>A acção da <a href="https://www.politicaparatodos.pt/" target="_blank">Politica Para Todos</a> , uma comunidade apartidária e independente com o objetivo de promover a participação ativa dos cidadãos nos processos eleitorais em Portugal, descobriu uma falha no processo eleitoral das legislativas — a poucas semanas das eleições, e com o voto nos estabelecimento prisionais (23 a 26 de Setembro) a poucos dias, a lista com os nomes dos candidatos de cada partido <a href="https://observador.pt/2019/09/19/quer-saber-em-quem-vai-votar-na-internet-so-vai-encontrar-a-lista-de-candidatos-a-15-dias-das-eleicoes/?fbclid=IwAR1JzkyrdqPsrLwlyrHDAfE6RSbAfPp4MOl2hcEOXiQs06cOhoA0MbOqr-M" target="_blank">não estava disponível</a>, como habitualmente no site da Comissão Nacional de Eleições nem em qualquer outro lugar. O mesmo apenas foi corrigido dia 21 de Setembro.</p>
+        <p>Numa era digital, o voluntariado digital é cada vez mais uma necessidade, merecedora de igual reconhecimento. Não retira lugar ao ativismo local, à importância da intervenção directa nas populações e ao combate à info-exclusão. Associações locais como a <b>RATO-ADCC</b> desenvolve um conjunto de projetos que visam promover a inclusão social, o combate à exclusão de informação e o empoderamento de pessoas e atores sociais, independentemente da geração e das condições socio-económicas. Como este, existem outras dezenas de projetos que sobrevivem graças à dedicação de quem neles acredita.</p>
+        <p>Haverá sempre necessidade de causas independentes, desde que exista dedicação, cidadãos ativos, forma de obter recursos de acordo com as necessidades e essencialmente, resiliência. Mas o que motiva o cidadão ativo? Devemos priorizar o certos tipos de voluntariado face a outros? Há um real interesse por parte das entidades governamentais em promover a contribuição do cidadão? Como promover a cidadania ativa e responsável?</p>
+        <p><b>Para responder a estas e a outras questões, no fim do dia 6 de Dezembro, véspera do Devfest’19 Lisboa, iremos ter um debate com o tema Cidadania Ativa, moderado por Pedro Pinto (Pplware).</b></p>
+        <ul>
+          <li>Nuno Carvalho (RATO-ADCC)</li>
+          <li>Nuno Carneiro (Politica para todos)</li>
+          <li>João Pina (Fogos.pt, VOSTPT)</li>
+          <li>TBA</li>
+        </ul>
+        <p>Este evento é gratuito e aberto a todos, <b>não sendo necessário bilhete.</b></p>
+        <p>6 de Dezembro</p>
+        <p>19 horas</p>
+        <p>Reitoria da Universidade NOVA de Lisboa</p>
+    </div>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    class DebatePage extends ReduxMixin(Polymer.Element) {
+      static get is() {return 'debate-page';}
+
+      static get properties() {
+        return {
+          active: Boolean,
+          team: {
+            type: Array,
+            statePath: 'team.list',
+          },
+          teamFetching: {
+            type: Boolean,
+            statePath: 'team.fetching',
+          },
+          teamFetchingError: {
+            type: Object,
+            statePath: 'team.fetchingError',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(DebatePage.is, DebatePage);
+
+  </script>
+</dom-module>
+

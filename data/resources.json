@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Season 2019",
-  "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for 2 days of sessions, workshops and showcases.",
+  "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for one day of sessions, workshops and showcases.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "December 7, 2019",
@@ -127,7 +127,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for one day of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
